@@ -1,12 +1,15 @@
 <?php
-$email1 = 'stokrenznesia12@gmail.com';
-$email2 = 'stokrenznesia12@gmail.com';
-$email3 = 'stokrenznesia12@gmail.com';
-$email4 = 'stokrenznesia12@gmail.com';
-$email5 = 'stokrenznesia12@gmail.com';
-$email6 = 'stokrenznesia12@gmail.com';
-$email7 = 'stokrenznesia12@gmail.com';
-$email8 = 'stokrenznesia12@gmail.com';
+$email1 = 'adiputraanugrah96@gmail
+com';
+$email2 = 'adiputraanugrah2008@gmail
+com';
+$email3 = 'lanationskrw@gmail
+com';
+$email4 = 'cyanizzx96@gmail.com';
+$email5 = 'mairaverseid@gmail.com';
+$email6 = '';
+$email7 = '';
+$email8 = '';
 $jenisress = $coda; //$coda, $spin, $claim
 $jenismail = $coda_mail; //$coda_mail, $spin_mail, $claim_mail
 ?>
